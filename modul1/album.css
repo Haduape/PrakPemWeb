@@ -1,0 +1,291 @@
+.album {
+  background-color: #000000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.album .div {
+  background-color: #000000;
+  overflow-x: hidden;
+  width: 1440px;
+  height: 2400px;
+  position: relative;
+}
+
+.album .btr-logo {
+  position: absolute;
+  width: 367px;
+  height: 102px;
+  top: 24px;
+  left: 39px;
+  object-fit: cover;
+}
+
+.album .group {
+  position: absolute;
+  width: 1442px;
+  height: 192px;
+  top: 2208px;
+  left: 0;
+}
+
+.album .overlap-group {
+  position: relative;
+  width: 1440px;
+  height: 192px;
+  background-color: #eddf07;
+}
+
+.album .text-wrapper {
+  position: absolute;
+  width: 600px;
+  top: 45px;
+  left: 54px;
+  font-family: "Bebas Neue", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.album .frame {
+  display: inline-flex;
+  padding: 10px;
+  top: 233px;
+  left: 62px;
+  align-items: center;
+  gap: 10px;
+  position: absolute;
+}
+
+.album .img {
+  position: relative;
+  width: 479px;
+  height: 487px;
+  object-fit: cover;
+}
+
+.album .overlap {
+  position: absolute;
+  width: 718px;
+  height: 321px;
+  top: 254px;
+  left: 582px;
+}
+
+.album .WE-will-the-EP {
+  position: absolute;
+  width: 709px;
+  top: 0;
+  left: 9px;
+  font-family: "Bebas Neue", Helvetica;
+  font-weight: 400;
+  color: #eddf07;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.album .track-list-milky-way {
+  position: absolute;
+  top: 141px;
+  left: 0;
+  font-family: "Bebas Neue", Helvetica;
+  font-weight: 400;
+  color: #eddf07;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.album .re-kessoku-band-wrapper {
+  display: inline-flex;
+  padding: 10px;
+  top: 781px;
+  left: 52px;
+  align-items: center;
+  gap: 10px;
+  position: absolute;
+}
+
+.album .overlap-2 {
+  position: absolute;
+  width: 849px;
+  height: 418px;
+  top: 773px;
+  left: 591px;
+}
+
+.album .p {
+  position: absolute;
+  width: 749px;
+  top: 0;
+  left: 8px;
+  font-family: "Bebas Neue", Helvetica;
+  font-weight: 400;
+  color: #eddf07;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.album .track-list-shine-as {
+  position: absolute;
+  width: 849px;
+  top: 110px;
+  left: 0;
+  font-family: "Bebas Neue", Helvetica;
+  font-weight: 400;
+  color: #eddf07;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.album .hikari-no-naka-e {
+  position: absolute;
+  width: 479px;
+  height: 579px;
+  top: 1328px;
+  left: 72px;
+  object-fit: cover;
+}
+
+.album .text-wrapper-2 {
+  position: absolute;
+  width: 717px;
+  top: 1327px;
+  left: 599px;
+  font-family: "Bebas Neue", Helvetica;
+  font-weight: 400;
+  color: #eddf07;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.album .track-list-into-the {
+  position: absolute;
+  top: 1440px;
+  left: 591px;
+  font-family: "Bebas Neue", Helvetica;
+  font-weight: 400;
+  color: #eddf07;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.album .div-wrapper {
+  display: flex;
+  width: 154px;
+  height: 82px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 11px 24px;
+  position: absolute;
+  top: 25px;
+  left: 500px;
+}
+
+.album .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  font-family: "Bebas Neue", Helvetica;
+  font-weight: 400;
+  color: #eddf07;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.album .overlap-3 {
+  position: absolute;
+  width: 191px;
+  height: 85px;
+  top: 22px;
+  left: 893px;
+}
+
+.album .frame-2 {
+  display: flex;
+  width: 154px;
+  height: 82px;
+  justify-content: center;
+  padding: 11px 24px;
+  top: 3px;
+  left: 37px;
+  align-items: center;
+  gap: 10px;
+  position: absolute;
+}
+
+.album .line {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 46px;
+  height: 68px;
+}
+
+.album .overlap-4 {
+  position: absolute;
+  width: 196px;
+  height: 82px;
+  top: 25px;
+  left: 1146px;
+}
+
+.album .frame-3 {
+  display: flex;
+  width: 154px;
+  height: 82px;
+  justify-content: center;
+  padding: 11px 24px;
+  top: 0;
+  left: 0;
+  align-items: center;
+  gap: 10px;
+  position: absolute;
+}
+
+.album .line-2 {
+  top: 5px;
+  left: 150px;
+  position: absolute;
+  width: 46px;
+  height: 68px;
+}
+
+.album .overlap-5 {
+  position: absolute;
+  width: 197px;
+  height: 85px;
+  top: 22px;
+  left: 672px;
+}
+
+.album .frame-4 {
+  display: flex;
+  width: 154px;
+  height: 82px;
+  justify-content: center;
+  padding: 11px 24px;
+  top: 3px;
+  left: 43px;
+  align-items: center;
+  gap: 10px;
+  position: absolute;
+}
+
+.album .line-3 {
+  top: 27px;
+  left: 1090px;
+  position: absolute;
+  width: 46px;
+  height: 68px;
+}

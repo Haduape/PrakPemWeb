@@ -1,0 +1,215 @@
+.frame {
+  background-color: #000000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .div {
+  background-color: #000000;
+  overflow-x: hidden;
+  width: 1440px;
+  height: 1440px;
+  position: relative;
+}
+
+.frame .div-wrapper {
+  top: 33px;
+  left: 500px;
+  display: flex;
+  width: 154px;
+  height: 82px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 11px 24px;
+  position: absolute;
+}
+
+.frame .text-wrapper {
+  position: relative;
+  width: fit-content;
+  font-family: "Bebas Neue", Helvetica;
+  font-weight: 400;
+  color: #eddf07;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .overlap {
+  position: absolute;
+  width: 191px;
+  height: 85px;
+  top: 30px;
+  left: 893px;
+}
+
+.frame .div-wrapper-2 {
+  top: 3px;
+  left: 37px;
+  display: flex;
+  width: 154px;
+  height: 82px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 11px 24px;
+  position: absolute;
+}
+
+.frame .line {
+  position: absolute;
+  width: 46px;
+  height: 68px;
+  top: 0;
+  left: 0;
+}
+
+.frame .overlap-group {
+  position: absolute;
+  width: 198px;
+  height: 83px;
+  top: 32px;
+  left: 1146px;
+}
+
+.frame .div-wrapper-3 {
+  top: 1px;
+  left: 0;
+  display: flex;
+  width: 154px;
+  height: 82px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 11px 24px;
+  position: absolute;
+}
+
+.frame .img {
+  top: 0;
+  left: 152px;
+  position: absolute;
+  width: 46px;
+  height: 68px;
+}
+
+.frame .overlap-2 {
+  position: absolute;
+  width: 197px;
+  height: 85px;
+  top: 30px;
+  left: 672px;
+}
+
+.frame .div-wrapper-4 {
+  top: 3px;
+  left: 43px;
+  display: flex;
+  width: 154px;
+  height: 82px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 11px 24px;
+  position: absolute;
+}
+
+.frame .line-2 {
+  top: 30px;
+  left: 1090px;
+  position: absolute;
+  width: 46px;
+  height: 68px;
+}
+
+.frame .btr-logo {
+  position: absolute;
+  width: 367px;
+  height: 102px;
+  top: 24px;
+  left: 39px;
+  object-fit: cover;
+}
+
+.frame .filters-quality {
+  position: absolute;
+  width: 776px;
+  height: 444px;
+  top: 201px;
+  left: 0;
+  object-fit: cover;
+}
+
+.frame .group {
+  position: absolute;
+  width: 1442px;
+  height: 192px;
+  top: 1248px;
+  left: 0;
+}
+
+.frame .overlap-group-2 {
+  position: relative;
+  width: 1440px;
+  height: 192px;
+  background-color: #eddf07;
+}
+
+.frame .text-wrapper-2 {
+  position: absolute;
+  width: 600px;
+  top: 45px;
+  left: 59px;
+  font-family: "Bebas Neue", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .image {
+  position: absolute;
+  width: 771px;
+  height: 461px;
+  top: 685px;
+  left: 669px;
+  object-fit: cover;
+}
+
+.frame .kessoku-band-is-the {
+  position: absolute;
+  width: 413px;
+  top: 251px;
+  left: 848px;
+  font-family: "Bebas Neue", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .span {
+  color: #eddf07;
+}
+
+.frame .text-wrapper-3 {
+  color: #a0678e;
+}
+
+.frame .the-name-kessoku {
+  position: absolute;
+  width: 474px;
+  top: 766px;
+  left: 122px;
+  font-family: "Bebas Neue", Helvetica;
+  font-weight: 400;
+  color: #eddf07;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}

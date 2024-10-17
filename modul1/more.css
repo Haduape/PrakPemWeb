@@ -1,0 +1,267 @@
+.more {
+  background-color: #000000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.more .div {
+  background-color: #000000;
+  overflow-x: hidden;
+  width: 1440px;
+  height: 4726px;
+  position: relative;
+}
+
+.more .frame {
+  top: 33px;
+  left: 500px;
+  display: flex;
+  width: 154px;
+  height: 82px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 11px 24px;
+  position: absolute;
+}
+
+.more .text-wrapper {
+  position: relative;
+  width: fit-content;
+  font-family: "Bebas Neue", Helvetica;
+  font-weight: 400;
+  color: #eddf07;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.more .overlap {
+  position: absolute;
+  width: 191px;
+  height: 85px;
+  top: 30px;
+  left: 893px;
+}
+
+.more .div-wrapper {
+  top: 3px;
+  left: 37px;
+  display: flex;
+  width: 154px;
+  height: 82px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 11px 24px;
+  position: absolute;
+}
+
+.more .line {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 46px;
+  height: 68px;
+}
+
+.more .overlap-group {
+  position: absolute;
+  width: 198px;
+  height: 83px;
+  top: 32px;
+  left: 1146px;
+}
+
+.more .frame-2 {
+  top: 1px;
+  left: 0;
+  display: flex;
+  width: 154px;
+  height: 82px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 11px 24px;
+  position: absolute;
+}
+
+.more .img {
+  top: 0;
+  left: 152px;
+  position: absolute;
+  width: 46px;
+  height: 68px;
+}
+
+.more .overlap-2 {
+  position: absolute;
+  width: 197px;
+  height: 85px;
+  top: 30px;
+  left: 672px;
+}
+
+.more .frame-3 {
+  top: 3px;
+  left: 43px;
+  display: flex;
+  width: 154px;
+  height: 82px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 11px 24px;
+  position: absolute;
+}
+
+.more .line-2 {
+  top: 30px;
+  left: 1090px;
+  position: absolute;
+  width: 46px;
+  height: 68px;
+}
+
+.more .btr-logo {
+  position: absolute;
+  width: 367px;
+  height: 102px;
+  top: 24px;
+  left: 39px;
+  object-fit: cover;
+}
+
+.more .overlap-3 {
+  position: absolute;
+  width: 1440px;
+  height: 2177px;
+  top: 197px;
+  left: 0;
+}
+
+.more .overlap-4 {
+  position: absolute;
+  width: 1440px;
+  height: 2177px;
+  top: 0;
+  left: 0;
+}
+
+.more .image {
+  height: 1097px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 880px;
+  object-fit: cover;
+}
+
+.more .ph {
+  position: absolute;
+  width: 880px;
+  height: 1080px;
+  top: 1097px;
+  left: 560px;
+  object-fit: cover;
+}
+
+.more .a-lonely-and {
+  position: absolute;
+  width: 428px;
+  top: 217px;
+  left: 975px;
+  font-family: "Bebas Neue", Helvetica;
+  font-weight: 400;
+  color: #a0678e;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.more .a-bright-and-popular {
+  position: absolute;
+  width: 384px;
+  top: 1393px;
+  left: 117px;
+  font-family: "Bebas Neue", Helvetica;
+  font-weight: 400;
+  color: #fb719d;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.more .ph-compilation {
+  position: absolute;
+  width: 880px;
+  height: 1080px;
+  top: 2374px;
+  left: 0;
+  object-fit: cover;
+}
+
+.more .image-2 {
+  height: 1080px;
+  top: 3454px;
+  left: 560px;
+  position: absolute;
+  width: 880px;
+  object-fit: cover;
+}
+
+.more .group {
+  position: absolute;
+  width: 1442px;
+  height: 192px;
+  top: 4534px;
+  left: 0;
+}
+
+.more .overlap-group-2 {
+  position: relative;
+  width: 1440px;
+  height: 192px;
+  background-color: #eddf07;
+}
+
+.more .text-wrapper-2 {
+  position: absolute;
+  width: 600px;
+  top: 45px;
+  left: 59px;
+  font-family: "Bebas Neue", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.more .an-energetic-and {
+  position: absolute;
+  width: 350px;
+  top: 2706px;
+  left: 1000px;
+  font-family: "Bebas Neue", Helvetica;
+  font-weight: 400;
+  color: #fdea9c;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.more .a-cool-and-solitary {
+  position: absolute;
+  width: 414px;
+  top: 3714px;
+  left: 85px;
+  font-family: "Bebas Neue", Helvetica;
+  font-weight: 400;
+  color: #5dd5e0;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
